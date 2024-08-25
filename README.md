@@ -7,4 +7,7 @@
 2:Run cd newsapi
 3:Run npm install 
 4:Go to (http://localhost:3000/) 
+```
+### Newsapi Screenshots
+![Todo Example](Screenshots/todo.gif)
 
