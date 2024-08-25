@@ -9,5 +9,6 @@
 4:Go to (http://localhost:3000/) 
 ```
 ### Newsapi Screenshots
-![Todo Example](Screenshots/todo.gif)
+
+![Newsapi SS](screenshots/chrome-capture-2024-8-25.gif)
 
